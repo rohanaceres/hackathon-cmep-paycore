@@ -20,6 +20,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cmepcarbon.hackathon.stone.paycore.storyboard" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmepcarbon.hackathon.stone.paycore.storyboard">
+          <provider selected="true" editor-type-id="Storyboard_ID">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="error.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/854x480C0T/error.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cartconfirmation.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cartconfirmation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/854x480C0T/cartconfirmation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.5151515">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -105,16 +112,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CP_SYSTEM_NOTIFIES_IDLE_ENTERED.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trigger/CP_SYSTEM_NOTIFIES_IDLE_ENTERED.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Trigger/CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="standby.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="standby.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/854x480C0T/standby.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15454546">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state vertical-scroll-proportion="-7.034483">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -156,9 +153,9 @@
         <option value="$PROJECT_DIR$/854x480C0T/app.css" />
         <option value="$PROJECT_DIR$/854x480C0T/error.html" />
         <option value="$PROJECT_DIR$/cmepcarbon.hackathon.stone.paycore.mft" />
-        <option value="$PROJECT_DIR$/854x480C0T/cartconfirmation.html" />
         <option value="$PROJECT_DIR$/854x480C0T/success.html" />
         <option value="$PROJECT_DIR$/854x480C0T/standby.html" />
+        <option value="$PROJECT_DIR$/854x480C0T/cartconfirmation.html" />
       </list>
     </option>
   </component>
@@ -516,6 +513,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29567644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10181311" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -529,7 +527,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29567644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -885,11 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmepcarbon.hackathon.stone.paycore.storyboard">
-      <provider selected="true" editor-type-id="Storyboard_ID">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/854x480C0T/error.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -912,17 +904,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/854x480C0T/cartconfirmation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="AHtml_ID">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trigger/CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -933,8 +914,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/854x480C0T/standby.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15454546">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state vertical-scroll-proportion="-7.034483">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="AHtml_ID">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmepcarbon.hackathon.stone.paycore.storyboard">
+      <provider selected="true" editor-type-id="Storyboard_ID">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/854x480C0T/cartconfirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5151515">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding />
         </state>
       </provider>

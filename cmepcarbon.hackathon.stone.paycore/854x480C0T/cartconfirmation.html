@@ -1,6 +1,14 @@
 <html>
     <body style="overflow:hidden;">
-        <?js ?>
+        <?js
+
+        // Mocked:
+        ARGV.transactionAmount = "1234";
+
+        var transactionAmount = "R$ " + ARGV.transactionAmount / 100;
+        ARGV.transactionAmount = transactionAmount;
+
+        ?>
 
         <div id="bodydiv" class="" style="background-color: rgb(0, 0, 0); height: 100%; width: 100%;">
 
@@ -10,7 +18,7 @@
             </div>
             <div class="panel" style="position: absolute; left: 2%; top: 50%;">
                 <p class="" style="font-family: 'Arial';font-weight: lighter; color: rgb(255, 255, 255); text-align: center; margin-top: auto; padding-left: 0px; padding-top: 0px; font-size: 50px; height: 38px; width: 814px; ">
-                    <strong>R$ 100,00</strong>
+                    <strong><?var transactionAmount?></strong>
                 </p>
             </div>
             <div class="panel" style="position: absolute; top: 84%; left: 3%;">
