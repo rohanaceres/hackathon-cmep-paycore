@@ -1,0 +1,35 @@
+body {
+
+}
+
+button {
+	border-width: 2px;
+	background-color: #BFBFBF;
+	color: #000000;
+	font-size: 20px;
+	font-family: Open Sans Light;
+	font-weight: lighter;
+	text-align: center;
+	border-radius: 6px/6px;
+}
+
+.textinput {
+    background-color: white;
+    border-color:#C0C0C0;
+    border-radius: 3px;
+    height:25px;
+    font-family: Open Sans Light;
+    font-weight: lighter;
+}
+
+.btninput
+{
+    border-width: 0px;
+    color: #ffffff;
+    background-color:#666666;
+    font-size: 12px;
+    font-family: Open Sans Light;
+    text-align: center;
+    border-radius: 3px;
+    font-weight: lighter;
+}

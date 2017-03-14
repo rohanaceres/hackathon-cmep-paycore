@@ -1,0 +1,19 @@
+{
+   "imports_hardware": {
+      "platforms": ["854x480C15T","854x480C0T"]
+  },
+   "imports_sdk": {
+       "triggers_min_version": "4.2.0",
+       "cpruntime_min_version": "2.0.0"
+     },
+   "application": {
+       "name": "253bdf810",
+       "id": "253bdf810-816298383",
+       "version": "1.0.0",
+       "type": "CP_TERMINAL",
+       "is_companion_app": false
+     },
+   "imports_trigger": [
+      ],
+   "schema_version": "1.0"
+ }
