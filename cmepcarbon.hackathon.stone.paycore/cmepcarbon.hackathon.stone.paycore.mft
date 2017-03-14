@@ -1,6 +1,13 @@
 {
   "schema_version" : "1.0",
   "imports_trigger" : [ {
+    "file" : "standby.html",
+    "optional" : false,
+    "id" : "CP_SYSTEM_NOTIFIES_IDLE_ENTERED",
+    "status_bar" : true,
+    "type" : "APPLICATION",
+    "interruptible" : false
+  }, {
     "file" : "cartconfirmation.html",
     "optional" : false,
     "id" : "CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED",
