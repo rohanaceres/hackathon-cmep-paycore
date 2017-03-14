@@ -33,3 +33,32 @@ button {
     border-radius: 3px;
     font-weight: lighter;
 }
+.back {
+	background-color: rgb(155, 155, 155);
+	color: rgb(255, 255, 255);
+	height: 69px;
+	width: 397px;
+	font-size: 28px;
+}
+
+.cancel {
+    background-color: rgb(114, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 69px;
+    width: 397px;
+    font-size: 28px;
+}
+
+.ok {
+	background-color: rgb(83, 192, 94);
+	color: rgb(255, 255, 255);
+	height: 69px;
+	width: 397px;
+	font-size: 28px;
+}
+
+.images {
+	height: 100px;
+	width: 100px;
+	border-width: 0px;
+}

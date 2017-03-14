@@ -1,19 +1,25 @@
 {
-   "imports_hardware": {
-      "platforms": ["854x480C15T","854x480C0T"]
+  "schema_version" : "1.0",
+  "imports_trigger" : [ {
+    "file" : "standby.html",
+    "optional" : false,
+    "id" : "CP_SYSTEM_NOTIFIES_IDLE_ENTERED",
+    "status_bar" : true,
+    "type" : "APPLICATION",
+    "interruptible" : false
+  } ],
+  "application" : {
+    "is_companion_app" : false,
+    "name" : "253bdf810",
+    "id" : "253bdf810-816298383",
+    "type" : "CP_TERMINAL",
+    "version" : "1.0.0"
   },
-   "imports_sdk": {
-       "triggers_min_version": "4.2.0",
-       "cpruntime_min_version": "2.0.0"
-     },
-   "application": {
-       "name": "253bdf810",
-       "id": "253bdf810-816298383",
-       "version": "1.0.0",
-       "type": "CP_TERMINAL",
-       "is_companion_app": false
-     },
-   "imports_trigger": [
-      ],
-   "schema_version": "1.0"
- }
+  "imports_sdk" : {
+    "cpruntime_min_version" : "2.0.0",
+    "triggers_min_version" : "4.2.0"
+  },
+  "imports_hardware" : {
+    "platforms" : [ "854x480C15T", "854x480C0T" ]
+  }
+}
