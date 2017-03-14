@@ -1,7 +1,7 @@
 {
   "scriptingInfo" : [ {
-    "orderId" : 0,
-    "triggerId" : "CP_SYSTEM_NOTIFIES_IDLE_ENTERED",
+    "orderId" : 2,
+    "triggerId" : "CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED",
     "interval" : 0
   } ]
 }

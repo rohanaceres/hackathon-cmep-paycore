@@ -1,7 +1,0 @@
-{
-  "Trigger": {
-    "Name": "CP_SYSTEM_NOTIFIES_IDLE_ENTERED",
-    "Handle": "handle",
-    "Screen_Available": "FULL_SCREEN"
-  }
-}

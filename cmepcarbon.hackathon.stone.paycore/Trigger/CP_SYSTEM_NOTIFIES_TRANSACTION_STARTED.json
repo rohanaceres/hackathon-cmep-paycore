@@ -1,0 +1,20 @@
+{
+  "Trigger": {
+    "Name": "CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED",
+    "Handle": "handle",
+    "Screen_Available": "FULL_SCREEN",
+    "Payload": {
+      "Transaction_Originator": "PAYMENT_APPLICATION",
+      "Invoice": "72135",
+      "Store_Num": "1091",
+      "Lane": "9",
+      "Cashier_Id": "Cathy",
+      "Transaction_Type": "PAYMENT",
+      "Acquirer_Merchant_Id": "AFG3456",
+      "Acquirer_Terminal_Id": "123-456-897",
+      "Acquirer_Id": "4654",
+      "Gateway_Merchant_Id": "125ef5",
+      "Gateway_Terminal_Id": "566899-12"
+    }
+  }
+}

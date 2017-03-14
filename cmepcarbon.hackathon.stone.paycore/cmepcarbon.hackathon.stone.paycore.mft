@@ -1,9 +1,9 @@
 {
   "schema_version" : "1.0",
   "imports_trigger" : [ {
-    "file" : "standby.html",
+    "file" : "cartconfirmation.html",
     "optional" : false,
-    "id" : "CP_SYSTEM_NOTIFIES_IDLE_ENTERED",
+    "id" : "CP_SYSTEM_NOTIFIES_TRANSACTION_STARTED",
     "status_bar" : true,
     "type" : "APPLICATION",
     "interruptible" : false
